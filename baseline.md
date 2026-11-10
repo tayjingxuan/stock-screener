@@ -10,3 +10,7 @@ Consumer discretionary: Carnival ($CCL), Walt Disney ($DIS), Home Depot ($HD), F
 
 Materials: Dow ($DOW), Eastman Chemical ($EMN), International Paper ($IP), LyondellBasell Industries ($LYB), PPG Industries ($PPG), Linde ($LIN), Air Products and Chemicals ($APD), Sherwin-Williams ($SHW), Ecolab ($ECL), Nucor ($NUE), Steel Dynamics ($STLD), Packaging Corporation of America ($PKG), Ball Corporation ($BALL), Avery Dennison ($AVY), Albemarle ($ALB), Newmont ($NEM), Freeport-McMoRan ($FCX), Vulcan Materials ($VMC), Martin Marietta Materials ($MLM), DuPont de Nemours ($DD)
 
+Utilities: NextEra Energy ($NEE), Southern Company ($SO), Duke Energy ($DUK), American Electric Power ($AEP), Dominion Energy ($D), Sempra ($SRE), Exelon ($EXC), Xcel Energy ($XEL), Public Service Enterprise Group ($PEG), Consolidated Edison ($ED), Entergy ($ETR), WEC Energy Group ($WEC), DTE Energy ($DTE), Ameren ($AEE), PPL Corporation ($PPL), Eversource Energy ($ES), FirstEnergy ($FE), Edison International ($EIX), CMS Energy ($CMS), CenterPoint Energy ($CNP), Atmos Energy ($ATO), NiSource ($NI), Alliant Energy ($LNT), Evergy ($EVRG), Pinnacle West Capital ($PNW), American Water Works ($AWK)
+
+Telecom: Verizon Communications (VZ), AT&T ( T), T-Mobile US ($TMUS), Comcast ($CMCSA), Charter Communications ($CHTR)
+
